@@ -24,4 +24,3 @@ birthday_date = datetime.strptime(birthday, '%d/%m/%Y')#用來將字串轉換為
 #'%y'指的是兩位數的年份，因此西元年應改為'%Y'四位數較合適
 print('Birthday: ' + str(birthday_date))
 print('Happy Birthday!')
-print("這是第二次 commit 的修改")
